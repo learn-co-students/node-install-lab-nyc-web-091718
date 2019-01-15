@@ -5,9 +5,9 @@
     "passes": 2,
     "pending": 0,
     "failures": 0,
-    "start": "2019-01-15T18:55:17.257Z",
-    "end": "2019-01-15T18:55:17.469Z",
-    "duration": 212
+    "start": "2019-01-15T18:57:42.984Z",
+    "end": "2019-01-15T18:57:43.220Z",
+    "duration": 236
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "must be 2.14.15 or greater",
       "fullTitle": "npm version must be 2.14.15 or greater",
-      "duration": 206,
+      "duration": 231,
       "currentRetry": 0,
       "err": {}
     }
@@ -38,7 +38,7 @@
     {
       "title": "must be 2.14.15 or greater",
       "fullTitle": "npm version must be 2.14.15 or greater",
-      "duration": 206,
+      "duration": 231,
       "currentRetry": 0,
       "err": {}
     }
